@@ -1,12 +1,15 @@
 # Projet_Nail  - Projet Étudiant de Site Web pour la Beauté des Ongles [Toujours en cours]
 
 - Introduction
+  
 Salut ! J'ai le plaisir de vous présenter le projet NailByBk. Il s'agit d'une maquette et d'un site web que j'ai conçus pour une boutique spécialisée dans la vente et la pose d'ongles. Mon objectif était de créer une plateforme en ligne qui allie esthétique, fonctionnalité et convivialité pour les utilisateurs.
 
 - Objectifs
+  
 Mon objectif principal était de créer une plateforme en ligne conviviale et complète qui permettra à nos clients de découvrir, acheter et apprécier une large gamme de produits de beauté pour les ongles. En plus de la vente de produits, nous proposerons également des services de pose d'ongles assurés par des professionnels qualifiés, garantissant ainsi une expérience complète et haut de gamme à nos utilisateurs.
 
 - Fonctionnalités clés
+  
 1. Boutique en Ligne Intuitive
 Naviguez facilement à travers notre catalogue diversifié de vernis, gels, accessoires et bien plus encore. Notre interface utilisateur conviviale offre une expérience de shopping en ligne sans tracas.
 
