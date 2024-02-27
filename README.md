@@ -29,11 +29,15 @@ Le répertoire GitHub de NailByBk est organisé de manière à simplifier la com
 
 
 /maquette : Contient les fichiers de la maquette initiale du site, y compris les images et les conceptions préliminaires.
+
 /IMG : Contient les images du projet
+
 /CSS : Contient les différents fichiers contenant le code CSS permettant de donnée de la forme au projet.
+
 /Chaque page HTML correspond comme son nom l'indique à une page importante du site 
 
 Remerciements
+
 Je tiens à remercier toute personne intéressée par ce projet. Vos retours, suggestions et contributions sont les bienvenus pour faire de NailByBk une expérience exceptionnelle pour les passionnés de beauté des ongles.
 
 Merci de prendre le temps de découvrir NailByBk !
