@@ -10,20 +10,21 @@ Mon objectif principal était de créer une plateforme en ligne conviviale et co
 
 - Fonctionnalités clés
   
-1. Boutique en Ligne Intuitive
-Naviguez facilement à travers notre catalogue diversifié de vernis, gels, accessoires et bien plus encore. Notre interface utilisateur conviviale offre une expérience de shopping en ligne sans tracas.
-
-2. Galerie de Nail Art Inspirante
-Explorez notre galerie de nail art pour découvrir des idées créatives et tendances. Nous mettrons en avant des réalisations de nos artistes professionnels et encouragerons nos clients à partager leurs propres créations.
-
-3. Réservation de Services de Pose d'Ongles
-Offrez à nos clients la possibilité de réserver des services de pose d'ongles directement depuis le site. Nous simplifions le processus de réservation pour garantir une expérience sans stress.
-
-4. Blog et Conseils de Beauté
-Restez à jour avec les dernières tendances de l'industrie, des tutoriels de nail art aux conseils d'entretien des ongles. Notre blog sera une ressource précieuse pour les passionnés de beauté.
+    1. Boutique en Ligne Intuitive
+    Naviguez facilement à travers notre catalogue diversifié de vernis, gels, accessoires et bien plus encore. Notre interface utilisateur conviviale offre une expérience de shopping en ligne sans tracas.
+    
+    2. Galerie de Nail Art Inspirante
+    Explorez notre galerie de nail art pour découvrir des idées créatives et tendances. Nous mettrons en avant des réalisations de nos artistes professionnels et encouragerons nos clients à partager leurs propres créations.
+    
+    3. Réservation de Services de Pose d'Ongles
+    Offrez à nos clients la possibilité de réserver des services de pose d'ongles directement depuis le site. Nous simplifions le processus de réservation pour garantir une expérience sans stress.
+    
+    4. Blog et Conseils de Beauté
+    Restez à jour avec les dernières tendances de l'industrie, des tutoriels de nail art aux conseils d'entretien des ongles. Notre blog sera une ressource précieuse pour les passionnés de beauté.
 
 
 - Structure du Projet
+  
 Le répertoire GitHub de NailByBk est organisé de manière à simplifier la compréhension et la contribution. Voici une brève description de chaque dossier :
 
 
